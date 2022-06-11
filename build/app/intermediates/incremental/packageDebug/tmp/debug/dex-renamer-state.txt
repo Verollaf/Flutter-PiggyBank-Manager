@@ -1,0 +1,4 @@
+#Sat Jun 11 02:13:40 CEST 2022
+base.0=/Users/francescoverolla/Progetti/Flutter-PiggyBank-Manager/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
